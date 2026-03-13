@@ -1,4 +1,3 @@
-## Hi there 👋
 # ¡Hola, soy Johan! 👋
 
 Soy estudiante de Ingeniería de Software en la Escuela Politécnica Nacional, apasionado por la programación orientada a objetos, el desarrollo de soluciones y la ciberseguridad.
@@ -27,5 +26,6 @@ Soy estudiante de Ingeniería de Software en la Escuela Politécnica Nacional, a
 [![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JohanSteeven&layout=compact&theme=radium)](https://github.com/JohanSteeven)
 
 ## 📫 Cómo contactarme
-- **LinkedIn:** [Tu Enlace de LinkedIn Aquí]
-- **Email:** [Tu Correo Aquí]
+- **LinkedIn:** www.linkedin.com/in/johan-baño
+
+- **Email:** johanbano@gmail.com
