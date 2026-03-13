@@ -23,7 +23,7 @@ developer = {
     "focus"       : ["Cybersecurity", "Backend Development", "Automation", "Microservices"],
     "languages"   : {"human": ["Spanish (Native)", "English (Advanced)"],
                      "code" : ["Python", "Java", "C#", "JavaScript", "TypeScript", "SQL", "C++"]},
-    "currently"   : "Migrating TutoriasFIS to microservices architecture",
+    "currently"   : "Alertify: Gestión de identidad y control de acceso",
     "fun_fact"    : "I turn repetitive tasks into Python scripts before coffee ☕"
 }
 ```
